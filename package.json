@@ -20,7 +20,7 @@
     "webpack-dev-server": "^3.2.1"
   },
   "dependencies": {
-    "jszip": "^3.2.2",
+    "jszip": "^3.7.0",
     "lodash": "^4.17.19"
   }
 }
